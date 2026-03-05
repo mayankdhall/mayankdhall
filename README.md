@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Mayank Dhall
 
-<!--
-**mayankdhall/mayankdhall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I build and experiment with AI Agents using No-Code and Low-Code tools.
 
-Here are some ideas to get you started:
+## 🔹 What I'm Working On
+- AI Agent workflows
+- Automation with LLMs
+- No-code AI tools
+- AI productivity systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tools I Explore
+- LangChain
+- AutoGen
+- CrewAI
+- Zapier / Make
+- OpenAI APIs
+- No-code AI builders
+
+## 📂 Projects
+- AI Agent experiments
+- Prompt workflows
+- Automation systems
+
+## 🌐 Sharing My Work
+I share AI experiments and agent workflows on Reddit and GitHub.
+
+## 📬 Connect
+- Reddit: https://www.reddit.com/user/Indie_SaaS/
